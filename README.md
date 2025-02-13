@@ -5,6 +5,7 @@
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.1.6.
 
 API Movies: https://www.omdbapi.com/
+
 It is necessary to have an apiKey
 
 ## Development server
