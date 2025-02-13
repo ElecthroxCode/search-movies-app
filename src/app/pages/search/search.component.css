@@ -1,0 +1,22 @@
+
+.search{
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    border: 2px solid #f0077b;
+    border-radius: 8px;
+    
+}
+.icon{
+    cursor: pointer;
+}
+input[type="text"]{
+    border: none;
+    background-color: #1e0c42;
+    height: 32px;
+    padding: 2px 8px;
+    outline: none;
+    font-size: 1.4rem;
+    width: 100%;
+    border-radius: 8px;
+}

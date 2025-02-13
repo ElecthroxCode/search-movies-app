@@ -1,0 +1,11 @@
+
+@if (movie) {
+    <div class="card">
+        <img [src]="getUrlImg()"
+         [alt]="movie.Title" class="img-card">
+        <div>
+            <h1 class="title-card">{{movie.Title}}</h1>
+            <p>{{movie.Year}}</p>
+        </div>
+    </div>
+}

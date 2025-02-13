@@ -1,1 +1,9 @@
 /* You can add global styles to this file, and also import other style files */
+
+*{margin: 0; padding: 0; box-sizing: border-box; color: #f5be58; 
+    font-family: "Baloo Tamma 2", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+body, html{height: 100%;}
